@@ -8,3 +8,8 @@ input{
     margin: auto;
     margin-bottom: 15px;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
