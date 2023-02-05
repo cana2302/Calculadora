@@ -1,6 +1,7 @@
 
 // *** Tomamos los elementos del HTML y le asignamos un nombre en JS ***
 const primer_num = document.getElementById("op1");
+document.getElementById("op1").focus(); //determinamos que el cursor se situe en este elemento
 const operador_0 = document.getElementById("operador");
 const segundo_num = document.getElementById("op2");
 const boton_calc = document.getElementById("calcular");
